@@ -3,7 +3,7 @@
 # Clone the repository in /home/jovyan/work
 # REPO=tuto-interactif-minimal
 REPO=Hands-on-Spark-Lab
-REPO_URL=https://github.com/TheAIWizard/${REPO}.git
+REPO_URL=https://github.com/HealerMikado/${REPO}.git
 # $1 is a positional argument
 IPYNB_PATH=$1
 git clone $REPO_URL $ROOT_PROJECT_DIRECTORY/${REPO}
